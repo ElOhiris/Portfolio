@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!-- saved from url=(0076)file:///C:/Users/HEW1EG000NL/OneDrive/Desktop/portfolio/html/Untitled-1.html -->
+<html lang="it"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2025</title>
+    <link rel="stylesheet" href="./2025_files/styles.css">
+</head>
+<body>
+    <header>
+        <h1>*2025</h1>
+        <section class="intro">
+            <img src="./2025_files/profilo.jpg" alt="La mia foto" class="profile-pic">
+            <h1>Benvenuto nel mio Portfolio*</h1>
+            <p>Ciao! Sono Eleonora, in arte Ohiris </p>
+        </section>
+        <nav>
+            <ul>
+                <li><a href="file:///C:/Users/HEW1EG000NL/OneDrive/Desktop/portfolio/html/Untitled-1.html#photography">Photography</a></li>
+                <li><a href="file:///C:/Users/HEW1EG000NL/OneDrive/Desktop/portfolio/html/Untitled-1.html#3dmodel">3D Model</a></li>
+                <li><a href="file:///C:/Users/HEW1EG000NL/OneDrive/Desktop/portfolio/html/Untitled-1.html#video">Video</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="photography">
+        <h2>FREAKT FRIDAY</h2>
+        <p>Una frammentazione di una pazzo venerdì, questo progetto inizia da un mio soggetto personale che vede un dualismo 
+            tra un personaggio apparentemente perfetto e uno più esuberante, con l'intento di cadere in quelli che saranno i vizi capitali. </p>
+        <div class="gallery">
+           <img src="./2025_files/12.png" alt="foto 1">
+            <img src="./2025_files/13.png" alt="Foto 2">
+            <img src="./2025_files/4.1.png" alt="Foto 3">
+            <img src="./2025_files/3.1.png" alt="Foto 4">
+            <img src="./2025_files/10.png" alt="Foto 5">
+            <img src="./2025_files/6.1.png" alt="Foto 6">
+            <img src="./2025_files/1.png" alt="Foto 7">
+            <img src="./2025_files/9.png" alt="Foto 8">
+            <img src="./2025_files/11.png" alt="Foto 9">
+            <img src="./2025_files/7.png" alt="Foto 10">
+            <img src="./2025_files/8.png" alt="Foto 11">
+            <img src="./2025_files/5.png" alt="Foto 12">
+            
+
+        </div>
+    </section>
+
+    <div class="lightbox">
+        <span class="close">×</span>
+        <span class="prev">❮</span>
+        <img src="file:///C:/Users/HEW1EG000NL/OneDrive/Desktop/portfolio/html/Untitled-1.html" alt="">
+        <span class="next">❯</span>
+    </div>
+
+    <footer>
+        <h2>Contatti</h2>
+        <p>Email: <a href="file:///C:/Users/HEW1EG000NL/OneDrive/Desktop/portfolio/html/ohiris.web@gmail.com">ohiris.web@gmail.com</a></p>
+        <div class="social-links">
+            <a href="https://www.instagram.com/leleross25?igsh=MWdwc2Y1ODNobXRreQ==">Instagram</a>
+            <a href="file:///C:/Users/HEW1EG000NL/OneDrive/Desktop/portfolio/html/Untitled-1.html#">LinkedIn</a>
+            <a href="https://www.youtube.com/@LevelLife_Ohiris">YouTube</a>
+        </div>
+    </footer>
+
+    <script src="./2025_files/script.js"></script>
+
+
+<div class="lightbox" style="position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.8); justify-content: center; align-items: center; z-index: 1000; display: none;"><img style="max-width: 90%; max-height: 80%;"><span class="close" style="position: absolute; top: 20px; right: 20px; font-size: 2rem; color: white; cursor: pointer;">×</span><span class="prev" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); font-size: 2rem; color: white; cursor: pointer;">❮</span><span class="next" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); font-size: 2rem; color: white; cursor: pointer;">❯</span></div></body></html>
